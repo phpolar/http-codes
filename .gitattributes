@@ -9,7 +9,6 @@
 /README.md               export-ignore
 /phpunit.xml             export-ignore
 /phpcs.xml               export-ignore
-/composer.json           export-ignore
 /composer.lock           export-ignore
 
 *.php diff=php
