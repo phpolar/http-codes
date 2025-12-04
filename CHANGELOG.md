@@ -1,3 +1,13 @@
+## 0.0.7 (2025-12-04)
+
+### Fix
+
+- make dist smaller
+- make dist smaller
+- change class name
+- move to phpolar
+- move to phpolar
+
 ## 0.0.6 (2023-01-16)
 
 ### Fix
